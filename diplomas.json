@@ -1,0 +1,14 @@
+[
+  {
+    "diplomaName": "دبلوم البرمجة",
+    "category": "تقنية المعلومات",
+    "pdfFile": "files/مبادئ البرمجة لغير المبرمجين.pdf",
+    "posterImage": "images/مبادئ البرمجه لغير المبرمجين .png"
+  },
+  {
+    "diplomaName": "دبلوم التصميم الجرافيكي",
+    "category": "فنون",
+    "pdfFile": "D:/My Data/Desktop/session 1/محاور/files/Html.pdf",
+    "posterImage": "images/hqdefault.avif"
+  }
+]
