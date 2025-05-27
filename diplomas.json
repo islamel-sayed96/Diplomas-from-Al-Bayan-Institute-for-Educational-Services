@@ -2,13 +2,13 @@
   {
     "diplomaName": "دبلوم البرمجة",
     "category": "تقنية المعلومات",
-    "pdfFile": "files/مبادئ البرمجة لغير المبرمجين.pdf",
-    "posterImage": "images/مبادئ البرمجه لغير المبرمجين .png"
+    "pdfFile": "files/programming-basics.pdf",
+    "posterImage": "images/programming-basics.png"
   },
   {
     "diplomaName": "دبلوم التصميم الجرافيكي",
     "category": "فنون",
-    "pdfFile": "files/مهارات المبرمج الصغير.pdf",
-    "posterImage": "images/المبرمج الصغير.png"
+    "pdfFile": "files/junior-skills.pdf",
+    "posterImage": "images/junior-programmer.png"
   }
 ]
