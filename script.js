@@ -19,8 +19,8 @@ let diplomas = [];
           <img src="${diploma.posterImage}" alt="${diploma.diplomaName}">
           <h3>${diploma.diplomaName}</h3>
           <p>${diploma.category}</p>
-          <a href="${diploma.pdfFile}" download>
-            <button>حمل الآن</button>
+          <a href="${diploma.pdfFile}" target="_blank">
+            <button> تنزيل 📥 </button>
           </a>
         `;
 
